@@ -4,3 +4,4 @@
 //Reference or Non Primitive
 //array, objects, Functions
 
+//Memory: Stack( Primitive), Heap( Non Primitive)
